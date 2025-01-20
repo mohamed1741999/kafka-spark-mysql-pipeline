@@ -1,1 +1,16 @@
+# Apache Kafka dependencies
+kafka-python==2.0.2
+
+# Spark dependencies
+pyspark==3.5.4
+
+# Airflow dependencies
+apache-airflow==2.8.0
+
+# MySQL database connector
+mysql-connector-python==9.1.0
+
+# API requests handling
+requests==2.32.3
+
 
