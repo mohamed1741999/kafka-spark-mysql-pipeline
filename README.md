@@ -44,3 +44,13 @@ This project demonstrates a near-real-time data pipeline where data is fetched f
   │   ├── kafka_config.json
   ├── requirements.txt
   ├── README.md
+
+## Testing
+  -Testing for this project can be done using unit tests for individual components:
+  -Kafka producer can be tested for correct message production.
+  -Spark job can be tested for correct data transformation and insertion into MySQL.
+  -Unit tests for Kafka can be written using pytest or unittest frameworks.
+
+## License
+  -This project is licensed under the MIT License - see the LICENSE file for details.
+  
